@@ -1,2 +1,2 @@
-# Ruby Katas
-Mis katas implementadas en Ruby
+# Ruby Samples
+* string-calculator
