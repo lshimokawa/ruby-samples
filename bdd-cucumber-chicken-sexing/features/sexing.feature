@@ -9,10 +9,10 @@ Feature: Sexing
 		Then return <gender> and <factor>
 
 	Examples:
-	| bumps | gender	| factor	|
-	| 0			| unknown	| 0				|
-	| 1			| male		| 80			|
-	| 2			| male		| 80			|
-	|	3			| female	| 80			|
-	| 4			|	female	| 80			|
-	| 5			| unknown |	0				|
+  | bumps | gender  | factor  |
+  | 0     | unknown | 0       |
+  | 1     | male    | 80      |
+  | 2     | male    | 80      |
+  | 3     | female  | 80      |
+  | 4     | female  | 80      |
+  | 5     | unknown | 0       |
