@@ -11,6 +11,9 @@ class Sexing
 		elsif bumps >= 3 and bumps <= 4
 			gender = 'female'
 			factor = 80
+		else 
+		  gender = 'unknown'
+		  factor = 0
 		end
 
 		{ gender: gender, factor: factor }
