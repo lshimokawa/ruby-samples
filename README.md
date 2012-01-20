@@ -1,5 +1,7 @@
 #Ruby Samples
 
+Some ruby katas...
+
 ##tdd-unit-string-calculator
 
 ##bdd-cucumber-chicken-sexing
